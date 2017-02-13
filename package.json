@@ -1,0 +1,22 @@
+{
+  "name": "w2d1_requestmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wichopy/w1d2_requestmodule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wichopy/w1d2_requestmodule/issues"
+  },
+  "homepage": "https://github.com/wichopy/w1d2_requestmodule#readme",
+  "devDependencies": {
+    "request": "^2.79.0"
+  }
+}
